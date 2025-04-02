@@ -8,5 +8,5 @@ _Approximate Height: 156 Feet, Data from KyFromAbove.ky.gov_
 ![Screenshot of animation](animation.png)  
 Ariel view of Florence, Kentucky Downtown
 
-Animation of Florence, Keutcky Downtown
-([https://www.youtube.com/watch?v=nFV8ftGN0aM](https://youtu.be/ry6cP2zVr-Y))_
+Animation of Florence, Keutcky Downtown:
+([https://www.youtube.com/watch?v=nFV8ftGN0aM](https://youtu.be/ry6cP2zVr-Y)
